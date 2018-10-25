@@ -1,0 +1,569 @@
+[<li class="list-item" data-actors="周润发 / 郭富城 / 张静初" data-category="nowplaying" data-director="庄文强" data-duration="130分钟" data-enough="True" data-region="中国大陆 香港" data-release="2018" data-score="8.1" data-showed="True" data-star="40" data-subject="26425063" data-title="无双" data-votecount="230866" id="26425063">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26425063/?from=playing_poster" target="_blank">
+<img alt="无双" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535096871.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26425063/?from=playing_poster" target="_blank" title="无双">
+                                    无双
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar40"></span>
+<span class="subject-rate">8.1</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F342166%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="米拉·库尼斯 / 凯特·麦克金农 / 贾斯汀·塞洛克斯" data-category="nowplaying" data-director="苏珊娜·福格尔" data-duration="117分钟" data-enough="True" data-region="美国" data-release="2018" data-score="6.4" data-showed="True" data-star="35" data-subject="26999424" data-title="我的间谍前男友" data-votecount="15750" id="26999424">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26999424/?from=playing_poster" target="_blank">
+<img alt="我的间谍前男友" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533822396.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26999424/?from=playing_poster" target="_blank" title="我的间谍前男友">
+                                    我的间谍前男友...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">6.4</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1203678%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="姚晨 / 马伊琍 / 袁文康" data-category="nowplaying" data-director="吕乐" data-duration="102分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="7.4" data-showed="True" data-star="40" data-subject="27140071" data-title="找到你" data-votecount="44804" id="27140071">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27140071/?from=playing_poster" target="_blank">
+<img alt="找到你" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534471408.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27140071/?from=playing_poster" target="_blank" title="找到你">
+                                    找到你
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar40"></span>
+<span class="subject-rate">7.4</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1209159%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="拉妮·玛克赫吉 / 内拉吉·卡比 / 萨钦" data-category="nowplaying" data-director="西达夫·马贺拉" data-duration="116分钟(中国大陆)" data-enough="True" data-region="印度" data-release="2018" data-score="7.5" data-showed="True" data-star="40" data-subject="30140571" data-title="嗝嗝老师" data-votecount="12584" id="30140571">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30140571/?from=playing_poster" target="_blank">
+<img alt="嗝嗝老师" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535365481.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30140571/?from=playing_poster" target="_blank" title="嗝嗝老师">
+                                    嗝嗝老师
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar40"></span>
+<span class="subject-rate">7.5</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1229020%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="杨幂 / 郭京飞 / 李鸿其" data-category="nowplaying" data-director="刘杰" data-duration="96分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="5.6" data-showed="True" data-star="30" data-subject="27039069" data-title="宝贝儿" data-votecount="17650" id="27039069">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27039069/?from=playing_poster" target="_blank">
+<img alt="宝贝儿" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2531326284.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27039069/?from=playing_poster" target="_blank" title="宝贝儿">
+                                    宝贝儿
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar30"></span>
+<span class="subject-rate">5.6</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1229749%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="邓超 / 孙俪 / 郑恺" data-category="nowplaying" data-director="张艺谋" data-duration="116分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="7.4" data-showed="True" data-star="40" data-subject="4864908" data-title="影" data-votecount="189025" id="4864908">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/4864908/?from=playing_poster" target="_blank">
+<img alt="影" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530513100.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/4864908/?from=playing_poster" target="_blank" title="影">
+                                    影
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar40"></span>
+<span class="subject-rate">7.4</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1203437%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="查宁·塔图姆 / 詹姆斯·柯登 / 赞达亚" data-category="nowplaying" data-director="凯瑞·柯克帕特里克 杰森·雷西格" data-duration="96分钟" data-enough="True" data-region="美国" data-release="2018" data-score="7.6" data-showed="True" data-star="40" data-subject="26944582" data-title="雪怪大冒险" data-votecount="2147" id="26944582">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26944582/?from=playing_poster" target="_blank">
+<img alt="雪怪大冒险" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535550507.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26944582/?from=playing_poster" target="_blank" title="雪怪大冒险">
+                                    雪怪大冒险
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar40"></span>
+<span class="subject-rate">7.6</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1205514%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="佐藤健 / 土屋太凤 / 北村一辉" data-category="nowplaying" data-director="濑濑敬久" data-duration="119分钟" data-enough="True" data-region="日本" data-release="2017" data-score="7.0" data-showed="True" data-star="35" data-subject="26929835" data-title="跨越8年的新娘" data-votecount="3582" id="26929835">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26929835/?from=playing_poster" target="_blank">
+<img alt="跨越8年的新娘" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536466873.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26929835/?from=playing_poster" target="_blank" title="跨越8年的新娘">
+                                    跨越8年的新娘...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">7.0</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1199020%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="黄才伦 / 艾伦 / 宋阳" data-category="nowplaying" data-director="吴昱翰" data-duration="113分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="5.1" data-showed="True" data-star="25" data-subject="27092785" data-title="李茶的姑妈" data-votecount="68845" id="27092785">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27092785/?from=playing_poster" target="_blank">
+<img alt="李茶的姑妈" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533384240.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27092785/?from=playing_poster" target="_blank" title="李茶的姑妈">
+                                    李茶的姑妈
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar25"></span>
+<span class="subject-rate">5.1</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217402%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="文章 / 包贝尔 / 郭京飞" data-category="nowplaying" data-director="包贝尔" data-duration="" data-enough="True" data-region="中国大陆" data-release="2018" data-score="3.8" data-showed="True" data-star="20" data-subject="27149818" data-title="胖子行动队" data-votecount="13522" id="27149818">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27149818/?from=playing_poster" target="_blank">
+<img alt="胖子行动队" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526215398.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27149818/?from=playing_poster" target="_blank" title="胖子行动队">
+                                    胖子行动队
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar20"></span>
+<span class="subject-rate">3.8</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1210830%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="赵英博 / 任敏 / 辛云来" data-category="nowplaying" data-director="落落" data-duration="104分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="5.8" data-showed="True" data-star="30" data-subject="27102569" data-title="悲伤逆流成河" data-votecount="34910" id="27102569">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27102569/?from=playing_poster" target="_blank">
+<img alt="悲伤逆流成河" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529701498.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27102569/?from=playing_poster" target="_blank" title="悲伤逆流成河">
+                                    悲伤逆流成河
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar30"></span>
+<span class="subject-rate">5.8</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217236%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="汤姆·希德勒斯顿 / 埃迪·雷德梅恩 / 麦茜·威廉姆斯" data-category="nowplaying" data-director="尼克·帕克" data-duration="85分钟(中国大陆)" data-enough="True" data-region="英国 法国 美国" data-release="2018" data-score="6.3" data-showed="True" data-star="35" data-subject="26384292" data-title="无敌原始人" data-votecount="2001" id="26384292">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26384292/?from=playing_poster" target="_blank">
+<img alt="无敌原始人" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537032871.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26384292/?from=playing_poster" target="_blank" title="无敌原始人">
+                                    无敌原始人
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">6.3</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F367845%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="林潇 / 葛凌芮 / 李劲峰" data-category="nowplaying" data-director="玉素" data-duration="90分钟" data-enough="False" data-region="中国大陆" data-release="2018" data-score="0" data-showed="True" data-star="00" data-subject="30259493" data-title="黑暗深处之惊魂夜" data-votecount="73" id="30259493">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30259493/?from=playing_poster" target="_blank">
+<img alt="黑暗深处之惊魂夜" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533904688.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30259493/?from=playing_poster" target="_blank" title="黑暗深处之惊魂夜">
+                                    黑暗深处之惊魂...
+                                </a>
+</li>
+<li class="srating">
+<span class="text-tip">暂无评分</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1227002%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="朗贝尔·维尔森 / 托马斯·阿克达 / 摩根·弗里曼" data-category="nowplaying" data-director="吕克·雅盖" data-duration="85分钟" data-enough="True" data-region="法国" data-release="2017" data-score="7.2" data-showed="True" data-star="35" data-subject="26794854" data-title="帝企鹅日记2：召唤" data-votecount="1501" id="26794854">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26794854/?from=playing_poster" target="_blank">
+<img alt="帝企鹅日记2：召唤" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536748718.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26794854/?from=playing_poster" target="_blank" title="帝企鹅日记2：召唤">
+                                    帝企鹅日记2：...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">7.2</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F368109%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item" data-actors="萨姆·沃辛顿 / 泰勒·席林 / 汤姆·威尔金森" data-category="nowplaying" data-director="伦纳特·拉夫" data-duration="97分钟" data-enough="True" data-region="美国 英国" data-release="2018" data-score="4.6" data-showed="True" data-star="25" data-subject="26649627" data-title="超能泰坦" data-votecount="4560" id="26649627">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26649627/?from=playing_poster" target="_blank">
+<img alt="超能泰坦" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534696059.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26649627/?from=playing_poster" target="_blank" title="超能泰坦">
+                                    超能泰坦
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar25"></span>
+<span class="subject-rate">4.6</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F342412%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="姜文 / 巩俐 / 滕汝骏" data-category="nowplaying" data-director="张艺谋" data-duration="91分钟" data-enough="True" data-region="中国大陆" data-release="1988" data-score="8.3" data-showed="True" data-star="45" data-subject="1306505" data-title="红高粱" data-votecount="114915" id="1306505">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/1306505/?from=playing_poster" target="_blank">
+<img alt="红高粱" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536679956.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/1306505/?from=playing_poster" target="_blank" title="红高粱">
+                                    红高粱
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar45"></span>
+<span class="subject-rate">8.3</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F961%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="宫哲 / 廖娟 / 梅俪儿" data-category="nowplaying" data-director="李耀东" data-duration="81分钟" data-enough="False" data-region="中国大陆" data-release="2018" data-score="0" data-showed="True" data-star="00" data-subject="30128986" data-title="午夜幽灵" data-votecount="125" id="30128986">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30128986/?from=playing_poster" target="_blank">
+<img alt="午夜幽灵" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536678812.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30128986/?from=playing_poster" target="_blank" title="午夜幽灵">
+                                    午夜幽灵
+                                </a>
+</li>
+<li class="srating">
+<span class="text-tip">暂无评分</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217141%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="杨玥 / 王梓权 / 德温·沃勒尔" data-category="nowplaying" data-director="崔燕" data-duration="" data-enough="False" data-region="中国大陆" data-release="2018" data-score="0" data-showed="True" data-star="00" data-subject="27201451" data-title="非洲遇见你" data-votecount="29" id="27201451">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27201451/?from=playing_poster" target="_blank">
+<img alt="非洲遇见你" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537055961.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27201451/?from=playing_poster" target="_blank" title="非洲遇见你">
+                                    非洲遇见你
+                                </a>
+</li>
+<li class="srating">
+<span class="text-tip">暂无评分</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217005%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="胡谦 / 李晔 / 蒋可" data-category="nowplaying" data-director="刘炜" data-duration="85分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="5.2" data-showed="True" data-star="30" data-subject="30208004" data-title="阿凡提之奇缘历险" data-votecount="998" id="30208004">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30208004/?from=playing_poster" target="_blank">
+<img alt="阿凡提之奇缘历险" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2534091010.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30208004/?from=playing_poster" target="_blank" title="阿凡提之奇缘历险">
+                                    阿凡提之奇缘历...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar30"></span>
+<span class="subject-rate">5.2</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F560411%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="Kirsten Day / Stephanie Sanditz" data-category="nowplaying" data-director="林恩·萨瑟兰" data-duration="87分钟" data-enough="True" data-region="美国 中国大陆" data-release="2018" data-score="4.2" data-showed="True" data-star="25" data-subject="30320057" data-title="新灰姑娘" data-votecount="853" id="30320057">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30320057/?from=playing_poster" target="_blank">
+<img alt="新灰姑娘" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535297332.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30320057/?from=playing_poster" target="_blank" title="新灰姑娘">
+                                    新灰姑娘
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar25"></span>
+<span class="subject-rate">4.2</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1227585%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="黄璐 / 吕聿来 / 姚安濂" data-category="nowplaying" data-director="卢晟" data-duration="93分钟" data-enough="True" data-region="中国大陆" data-release="2011" data-score="7.2" data-showed="True" data-star="35" data-subject="6829676" data-title="这里，那里" data-votecount="635" id="6829676">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/6829676/?from=playing_poster" target="_blank">
+<img alt="这里，那里" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1217961892.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/6829676/?from=playing_poster" target="_blank" title="这里，那里">
+                                    这里，那里
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">7.2</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F311%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="王力宏 / 宋茜 / 高以翔" data-category="nowplaying" data-director="雷尼·哈林" data-duration="105分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="4.4" data-showed="True" data-star="25" data-subject="26816372" data-title="古剑奇谭之流月昭明" data-votecount="5147" id="26816372">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/26816372/?from=playing_poster" target="_blank">
+<img alt="古剑奇谭之流月昭明" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535268700.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/26816372/?from=playing_poster" target="_blank" title="古剑奇谭之流月昭明">
+                                    古剑奇谭之流月...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar25"></span>
+<span class="subject-rate">4.4</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1198828%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="" data-category="nowplaying" data-director="侯克明" data-duration="176分钟" data-enough="False" data-region="中国大陆" data-release="2016" data-score="0" data-showed="True" data-star="00" data-subject="30282864" data-title="长征" data-votecount="5" id="30282864">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30282864/?from=playing_poster" target="_blank">
+<img alt="长征" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2528947314.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30282864/?from=playing_poster" target="_blank" title="长征">
+                                    长征
+                                </a>
+</li>
+<li class="srating">
+<span class="text-tip">暂无评分</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1208173%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="卢秋宏 / 何达 / 郑昊" data-category="nowplaying" data-director="高峰 张馨" data-duration="100分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="4.5" data-showed="True" data-star="25" data-subject="27180974" data-title="浴血广昌" data-votecount="921" id="27180974">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/27180974/?from=playing_poster" target="_blank">
+<img alt="浴血广昌" class="" rel="nofollow" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529260597.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/27180974/?from=playing_poster" target="_blank" title="浴血广昌">
+                                    浴血广昌
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar25"></span>
+<span class="subject-rate">4.5</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1223430%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="张艺谋 / 赵小丁 / 陈敏正" data-category="nowplaying" data-director="汪鹏" data-duration="94分钟" data-enough="True" data-region="中国大陆" data-release="2018" data-score="7.0" data-showed="True" data-star="35" data-subject="30255138" data-title="张艺谋和他的“影”" data-votecount="1175" id="30255138">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/30255138/?from=playing_poster" target="_blank">
+<img alt="张艺谋和他的“影”" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535726164.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/30255138/?from=playing_poster" target="_blank" title="张艺谋和他的“影”">
+                                    张艺谋和他的“...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">7.0</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1235235%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>, <li class="list-item hidden" data-actors="柯蒂·斯密特-麦菲 / 诺亚·泰勒 / 理查德·劳斯伯格" data-category="nowplaying" data-director="亚力克斯·施塔德曼" data-duration="88分钟(中国大陆)" data-enough="True" data-region="澳大利亚 德国" data-release="2014" data-score="6.6" data-showed="True" data-star="35" data-subject="25881500" data-title="玛雅蜜蜂历险记" data-votecount="314" id="25881500">
+<ul class="">
+<li class="poster">
+<a class="ticket-btn" data-psource="poster" href="https://movie.douban.com/subject/25881500/?from=playing_poster" target="_blank">
+<img alt="玛雅蜜蜂历险记" class="" rel="nofollow" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535445813.jpg"/>
+</a>
+</li>
+<li class="stitle">
+<a class="ticket-btn" data-psource="title" href="https://movie.douban.com/subject/25881500/?from=playing_poster" target="_blank" title="玛雅蜜蜂历险记">
+                                    玛雅蜜蜂历险记...
+                                </a>
+</li>
+<li class="srating">
+<span class="rating-star allstar35"></span>
+<span class="subject-rate">6.6</span>
+</li>
+<li class="sbtn">
+<a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F334598%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+</li>
+</ul>
+</li>]
