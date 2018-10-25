@@ -14,6 +14,4 @@
 	2、进行词云展示
 	
 # 一路的坑:
-	1、部署github代码遇到：remote: Permission to cjl1702/python.git denied to 958938148.
-	
-
+	部署github代码遇到：remote: Permission to cjl1702/python.git denied to 958938148；解决方法：window用户，到控制面板\用户帐户\凭据管理器把window凭据https://github.com删除一下; 
