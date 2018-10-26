@@ -5,6 +5,7 @@ import urllib.request
 from bs4 import BeautifulSoup as bs
 
 
+
 #请求
 url = "https://movie.douban.com/nowplaying/hangzhou"
 request = urllib.request.Request(url)
@@ -28,12 +29,19 @@ now_movie_list = now_movie[0].find_all('li',class_='list-item')
 
 #清洗数据
 new_data = []
-for item in now_movie_list:
+for item_info in now_movie_list:
     new_data_dict = {}
-    new_data_dict['id'] = item['data-subject']
+    new_data_dict['id'] = item_info['data-subject']
+    new_data_dict['actors'] = item_info['data-actors']
 
-    print(type(new_data_dict))
-    print(item['data-actors'])
+    #获取img信息
+    item_info = item_info.find_all('img')
+    for item in item_info:
+        new_data_dict['name'] = item['alt']
+        new_data_dict['img']  = item['src']
+
+
+#导入mysql驱动
 
 
 
