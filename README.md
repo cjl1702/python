@@ -14,8 +14,9 @@
 	1、清洗数据，进行json格式nosql存储；
 	2、进行词云展示
 	
-# 强化爬虫函数()
+# 其他功能()
 	1、爬虫第二阶段，跳过验证码功能；
+	2、调用讯飞开发平台API形成示例；
 	
 # 一路的坑:
 	部署github代码遇到：remote: Permission to cjl1702/python.git denied to 958938148；
