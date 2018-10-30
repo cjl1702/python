@@ -1,3 +1,7 @@
+# 文件说明
+	1、index.py:python基础操作
+	2、crawler.py:抓取文件词云展示
+	3、sqlcurd.py:python数据库增删改查操作
 # python学习阶段 (2018.10.14-10.21)
 
 	1、学习基础语法；
