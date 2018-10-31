@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #coding:utf-8
-''' @time = '2018年10月22日 17:44' '''
+#date 2018年10月22日 17:44
+
 
 import time
 import pymysql
