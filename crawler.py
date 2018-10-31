@@ -2,6 +2,7 @@
 #coding:utf-8
 ''' @time = '2018年10月22日 17:44' '''
 
+import time
 import pymysql
 import urllib.request
 from bs4 import BeautifulSoup as bs
@@ -31,6 +32,7 @@ now_movie_list = now_movie[0].find_all('li',class_='list-item')
 
 # 清洗数据
 new_data = []
+
 for item_info in now_movie_list:
     new_data_dict = {}
     new_data_dict['id'] = item_info['data-subject']
@@ -42,6 +44,7 @@ for item_info in now_movie_list:
         new_data_dict['name'] = item['alt']
         new_data_dict['img']  = item['src']
 
+        new_data.append(new_data_dict)
 # 操作数据库
 db = pymysql.connect("localhost","root","root","pythoncjl")
 
@@ -49,17 +52,24 @@ db = pymysql.connect("localhost","root","root","pythoncjl")
 cursor = db.cursor()
 
 # SQl操作语句
-sql = "select * from film"
-cursor.execute(sql)
+sql = 'insert into film values '
+for key,data in enumerate(new_data):
+    # 不同变量类型不能进行拼接
+    current_time = str(time.time())
+    sql += "(" + data['id'] + ",'" + data['name'] + "','" + data['actors'] + "','" + data[
+        'img'] + "'," + current_time + ")"
+    # 判断最后一条数据不加'逗号'
+    if key != len(new_data)-1:
+        sql += ","
 
-results = cursor.fetchall()
-print(results)
+try:
+    # 执行sql语句
+    cursor.execute(sql)
+    # 提交到数据库执行
+    db.commit()
+except:
+    db.rollback()
+    print('插入失败，进行回滚')
 
-
-# 写入文件
-fe = open('douban.txt','w',encoding='utf-8')
-fe.write(str(now_movie_list))
-fe.close()
-
-# 设置解码格式
-# print(html_data)
+# 关闭数据库
+db.close()
