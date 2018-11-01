@@ -25,3 +25,12 @@
 # 一路的坑:
 	部署github代码遇到：remote: Permission to cjl1702/python.git denied to 958938148；
 	解决方法：window用户，到控制面板\用户帐户\凭据管理器把window凭据https://github.com删除一下; 
+	
+# Python数据分析应用：
+	1、IPython:一种交互式计算和开发环境;
+	2、NumPy基础：数组和矢量计算
+	3、Pandas入门
+	4、数据加载,存储于文件格式
+	5、绘图和可视化：matplotlib
+	6、数据聚合与分组：GroupBy技术
+	7、NumPy高级应用
