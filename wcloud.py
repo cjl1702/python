@@ -9,7 +9,7 @@ import pandas as  pd # 结巴分词 需要用到pandas包，做数据清理
 import numpy
 
 # 评论请求地址
-url = 'https://movie.douban.com/subject/26363254/comments?start=0&limit=20'
+url = 'https://movie.douban.com/subject/25917789/comments?start=0&limit=20'
 request = urllib.request.Request(url)
 
 # 爬取结果
@@ -52,11 +52,12 @@ print(words_stat.head())
 
 # 用词云展示
 import matplotlib.pyplot as plt
-#%matplotlib inline
+#% matplotlib inline
 import matplotlib
 matplotlib.rcParams['figure.figsize'] = (10.0, 5.0)
+
 from wordcloud import WordCloud#词云包
-wordcloud=WordCloud(font_path="simhei.ttf",background_color="white",max_font_size=80) #指定字体类型、字体大小和字体颜色
+wordcloud = WordCloud(font_path="simhei.ttf",background_color="white",max_font_size=80) #指定字体类型、字体大小和字体颜色
 word_frequence = {x[0]:x[1] for x in words_stat.head(1000).values}
 
 word_frequence_list1 = []
@@ -76,6 +77,7 @@ plt.imshow(wordcloud)
 plt.axis("off")
 plt.show()
 
+wordcloud.to_file('test.png')
 
 
 fe = open('comment.txt','w',encoding='utf-8')
