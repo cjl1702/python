@@ -34,3 +34,4 @@
 	5、绘图和可视化：matplotlib
 	6、数据聚合与分组：GroupBy技术
 	7、NumPy高级应用
+	8、selenium:自动化测试，解决js渲染问题
